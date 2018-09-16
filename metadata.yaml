@@ -1,0 +1,44 @@
+_repo: De-getemde-feeks_51691
+_version: 0.0.1
+alternative_title: The taming of the shrew. Dutch
+contributor:
+  translator:
+    agent_name: Burgersdijk, L. A. J. (Leendert Alexander Johannes)
+    aliases:
+    - Burgersdijk, Leendert Alexander Johannes
+    - Burgersdijk, Dr. L.A.J.
+    - Burgersdijk, Dr. L. A. J.
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '25415'
+    url: http://www.gutenberg.org/2009/agents/25415
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2016-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51691'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sex role -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Married people -- Drama'
+- !lcsh 'Padua (Italy) -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- GITenberg
+title: De getemde feeks
+url: http://www.gutenberg.org/ebooks/51691
